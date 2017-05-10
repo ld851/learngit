@@ -4,3 +4,4 @@ Mysql 5.5.27
 Tomcat 7.0.75
 Myeclipse 9.0
 shiyishi
+Creating a new branch is quick AND simple.
